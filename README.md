@@ -22,3 +22,11 @@ This project analyzes sales data to find top products and revenue.
 - Data stored and queried using PostgreSQL
 - Revenue calculated using Google Sheets formulas
 - Logic implemented using Python
+  
+#SQL JOIN Output
+
+| order_id | product_name | price | quantity | revenue |
+|----------|--------------|-------|----------|---------|
+| 101      | Phone        | 20000 | 2        | 40000   |
+| 102      | Laptop       | 50000 | 1        | 50000   |
+| 103      | Earphones    | 2000  | 3        | 6000    |

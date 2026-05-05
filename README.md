@@ -51,3 +51,7 @@ This project analyzes sales data from the Superstore dataset to understand busin
 
 ### Sales by Region
 ![Region](images/sales_by_region.png)
+
+## 📊 Power BI Dashboard
+
+![Dashboard](images/superstore_dashbopard.png)

@@ -54,4 +54,4 @@ This project analyzes sales data from the Superstore dataset to understand busin
 
 ## 📊 Power BI Dashboard
 
-![Dashboard](images/superstore_dashbopard.png)
+![Dashboard](images/superstore_dashboard.png)
